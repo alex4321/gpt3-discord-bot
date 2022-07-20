@@ -1,0 +1,4 @@
+langdetect==1.0.9
+openai==0.20.0
+google-cloud-translate==3.8.0
+discord.py==1.7.3
